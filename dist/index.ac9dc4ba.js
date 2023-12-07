@@ -577,7 +577,7 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 },{}],"aR1JP":[function(require,module,exports) {
 var _stylesCss = require("./styles.css");
 document.getElementById("app").innerHTML = `
-<h1>Hello JavaScript!</h1>
+<h1>Hola Mundo!</h1>
 `;
 
 },{"./styles.css":"lW6qc"}],"lW6qc":[function() {},{}]},["iZQ9B","aR1JP"], "aR1JP", "parcelRequirebaba")
